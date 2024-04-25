@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rodrigo Almeida
 
-- 🔭 Atualmente trabalhando com front-end
-- 🌱 Estudando  Java Script e TypeScript
+- 🔭 Atualmente trabalhando com front-end e estudando back-end
+- 🌱 Estudando  Java e PHP
 ##
 <div>
   <a href="https://github.com/rodrigooal">
